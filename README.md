@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Dishonorable Mention: Comic Sans</h1>
+        <h1>DiY MiCrO</h1>
         <p>Microprojects for Diploma Students</p>
         <nav>
             <ul>
@@ -29,31 +29,17 @@
             <ul>
                 <li>
                     <h3>Electrical Projects</h3>
-                    <p>We offer a range of microprojects tailored for Electrical diploma students, covering topics such as circuit design, renewable energy, and automation.</p>
+                    <p>We offer a range of microprojects tailored for Electrical diploma students, covering topics such as circuit design, renewable energy, and automation. We makes such as a ppt projects.</p>
                 </li>
-                <li>
-                    <h3>Computer Projects</h3>
-                    <p>Our computer projects include software development, web development, and data analysis, helping students build practical and theoretical skills.</p>
-                </li>
-                <li>
-                    <h3>IT Projects</h3>
-                    <p>We provide microprojects in IT focusing on networking, cybersecurity, and IT management, preparing students for industry challenges.</p>
-                </li>
-                <li>
-                    <h3>Other Branches</h3>
-                    <p>In addition to Electrical, Computer, and IT, we offer microprojects for various other branches to cater to all diploma students' needs.</p>
-                </li>
+               
+                
             </ul>
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
             <p>For inquiries and project requests, please contact us at:</p>
             <p>Email: <a href="mailto:info@microprojects.com">info@microprojects.com</a></p>
-            <p>Phone: +1 234 567 890</p>
+            <p>Phone: +91 8799051812</p>
         </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 MiCrO. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+   
+       
